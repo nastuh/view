@@ -1,1 +1,1 @@
-# Hi everuone :wave: 
+# Hi everyone :wave: 
