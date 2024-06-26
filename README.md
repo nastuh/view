@@ -5,6 +5,5 @@
 </div>
 
 <h1>
-                                                                    Hi everyone 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+                                                                    Hi everyone :wave: 
 </h1>
