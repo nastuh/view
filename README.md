@@ -4,6 +4,7 @@
 </div>
 
 
+
 ### :woman_technologist: About Me :
 I'm a programmer from Belarus.
 - :telescope: I learn 3 programming languages and database.
@@ -16,3 +17,5 @@ I'm a programmer from Belarus.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
